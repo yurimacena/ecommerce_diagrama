@@ -1,2 +1,1 @@
-# sql_annotations
-Annotations from my course of SQL and tests.
+# Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
